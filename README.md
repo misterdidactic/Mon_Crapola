@@ -9,3 +9,7 @@ My P.A. system doesn't do stereo so I miss half of the auditory experience when 
 ### sevastolink.sh
 
 I have this in my bash profile on almost every machine I use so that my terminals start up with this little cutie. For copyright reasons you'll have to find your own .sevastopol.mp3. To run it just type sev and hit enter. I add "sev" to the end of my bash profile in order to run it every time I open a new terminal.
+
+### random_IP_addr.py
+
+I made this for learning to count in binary. It will prompt you with a random IP address in decimal and when you're ready, you can hit any key and it will show you the address in binary for you to compare with your own.
