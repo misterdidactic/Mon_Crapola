@@ -16,4 +16,4 @@ I made this for learning to count in binary. It will prompt you with a random IP
 
 ### tptbf.py
 
-A simple python script for macOS based on Merlin Mann's (10+2)*5 post on 43folders. Merlin Mann's original post can be found here. Run the script from a bash prompt using python tptbf.py and optionally add the option for how many hours, i.e. python tptbf.py 3 to try to get s\*\*t done for three hours
+A simple python script for macOS based on Merlin Mann's (10+2)\*5 post on 43folders. Merlin Mann's original post can be found [here](http://www.43folders.com/2005/10/11/procrastination-hack-1025). Run the script from a bash prompt using python tptbf.py and optionally add the option for how many hours, i.e. python tptbf.py 3 to try to get s\*\*t done for three hours
