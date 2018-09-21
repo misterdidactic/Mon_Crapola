@@ -13,3 +13,7 @@ I have this in my bash profile on almost every machine I use so that my terminal
 ### random_IP_addr.py
 
 I made this for learning to count in binary. It will prompt you with a random IP address in decimal and when you're ready, you can hit any key and it will show you the address in binary for you to compare with your own.
+
+### tptbf.py
+
+A simple python script for macOS based on Merlin Mann's (10+2)*5 post on 43folders. Merlin Mann's original post can be found here. Run the script from a bash prompt using python tptbf.py and optionally add the option for how many hours, i.e. python tptbf.py 3 to try to get s\*\*t done for three hours
