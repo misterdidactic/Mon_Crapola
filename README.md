@@ -5,3 +5,7 @@ Here I will dump unto you my scripts, applets, services, junk, bunk, and detritu
 ### Monotoggler (MacOS)
 
 My P.A. system doesn't do stereo so I miss half of the auditory experience when I'm blasting my fat beats, ya dig? This little buddy automates toggling the accessibility settings to mono audio output. Here is a [link](https://apple.stackexchange.com/questions/8299/how-do-i-make-an-applescript-file-into-a-mac-app) detailing how to create an app out of it for easy launching with spotlight or from your dock.
+
+### sevastolink.sh
+
+I have this in my bash profile on almost every machine I use so that my terminals start up with this little cutie. For copyright reasons you'll have to find your own .sevastopol.mp3. To run it just type sev and hit enter. I add "sev" to the end of my bash profile in order to run it every time I open a new terminal.
